@@ -55,7 +55,7 @@
                 dense
               ></v-text-field>
   
-              <v-btn block color="lime" dark class="mt-4" large type="submit"> Sign Up </v-btn>
+              <v-btn block color="#CCF0F4" dark class="mt-4" large type="submit"> Sign Up </v-btn>
   
               <div class="text-center mt-6">
                 <p>

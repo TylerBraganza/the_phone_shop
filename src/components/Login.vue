@@ -17,7 +17,7 @@
               <div class="d-flex justify-space-between align-center mb-2">
                 <a href="#" class="teal--text text--darken-2 text-body-2" >Forgot password?</a >
               </div>
-              <v-btn block color="lime" dark class="mt-4" large type="submit"> Log In </v-btn>
+              <v-btn block color="#CCF0F4" dark class="mt-4" large type="submit"> Log In </v-btn>
               <div class="text-center mt-6">
                 <p>
                   Don't have an account?
